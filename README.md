@@ -44,9 +44,13 @@ model.fit(X_train,y_train)
 ```
 * Now predict the testing dataset and find how accurate your predictions are.
 
+
 ![Screenshot (39)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x51y94yaklvpkhf40qhx.png)
 
+
 * Accuracy score is predicted as follows:
+
+
 
 ![Screenshot (40)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70dlkdegc3efkj0m4r8x.png)
 
